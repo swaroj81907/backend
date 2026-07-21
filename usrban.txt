@@ -1,0 +1,16 @@
+{
+  "banned": [
+    {
+      "Username": "111",
+      "Reason": "testing!!!"
+    },
+    {
+      "Username": "Player123",
+      "Reason": "Sharing license key"
+    },
+    {
+      "Username": "abc_user",
+      "Reason": "Chargeback / Refund abuse"
+    }
+  ]
+}

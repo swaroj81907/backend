@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "premium",
+      "username": "admin",
+      "password": "0019",
+      "Valid" : "lifetime",
+      "ClientName" : "arry_client"
+    },
+    {
+      "id": "free",
+      "username": "weffcwe",
+      "password": "xwexc",
+      "Valid" : "22/7/2026",
+      "ClientName" : "null"
+    },
+    {
+      "id": "premium",
+      "username": "dwe",
+      "password": "wec",
+      "Valid" : "22/7/2026",
+      "ClientName" : "null"
+    }
+  ]
+}
