@@ -2,22 +2,19 @@
   "users": [
     {
       "id": "premium",
-      "username": "admin",
-      "password": "0019",
+      "key": "admin",
       "Valid" : "lifetime",
       "ClientName" : "arry_client"
     },
     {
       "id": "free",
-      "username": "weffcwe",
-      "password": "xwexc",
+      "key": "free100",
       "Valid" : "22/7/2026",
       "ClientName" : "null"
     },
     {
       "id": "premium",
-      "username": "dwe",
-      "password": "wec",
+      "key": "dwe",
       "Valid" : "22/7/2026",
       "ClientName" : "null"
     }
