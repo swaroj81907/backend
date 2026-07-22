@@ -1,18 +1,21 @@
 {
   "users": [
     {
+      "DcUsr": "null",
       "id": "premium",
       "Key": "admin",
       "Valid": "lifetime",
       "ClientName": "arry_client"
     },
     {
+      "DcUsr": "null",
       "id": "free",
       "Key": "free100",
       "Valid": "22/7/2026",
       "ClientName": "null"
     },
     {
+      "DcUsr": "null",
       "id": "premium",
       "Key": "dwe",
       "Valid": "22/7/2026",
