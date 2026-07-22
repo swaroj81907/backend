@@ -20,6 +20,13 @@
       "Key": "dwe",
       "Valid": "22/7/2026",
       "ClientName": "null"
+    },
+    {
+      "DcUsr": "1477672979272831089",
+      "id": "premium",
+      "Key": "Valex-Client-YJ7HMWQ984N9",
+      "Valid": "23/07/2026",
+      "ClientName": "arry_client"
     }
   ]
 }
