@@ -13,6 +13,13 @@
       "Key": "Valex-Client-UXAWX101KDAQ",
       "Valid": "23/07/2026",
       "ClientName": "null"
+    },
+    {
+      "DcUsr": "1477672979272831089",
+      "id": "free",
+      "Key": "Valex-Client-OPSQ6HDD0OKT",
+      "Valid": "lifetime",
+      "ClientName": "arry_client"
     }
   ]
 }
