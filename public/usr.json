@@ -20,6 +20,13 @@
       "Key": "Valex-Client-OPSQ6HDD0OKT",
       "Valid": "lifetime",
       "ClientName": "arry_client"
+    },
+    {
+      "DcUsr": "1477672979272831089",
+      "id": "free",
+      "Key": "Valex-Client-6D8X0VBJCLA8",
+      "Valid": "lifetime",
+      "ClientName": "arry_client"
     }
   ]
 }
