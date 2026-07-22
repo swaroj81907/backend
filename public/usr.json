@@ -1,27 +1,6 @@
 {
   "users": [
     {
-      "DcUsr": "893378455939469333",
-      "id": "premium",
-      "Key": "Valex-Client-UXAWX101KDAQ",
-      "Valid": "23/07/2026",
-      "ClientName": "null"
-    },
-    {
-      "DcUsr": "893378455939469333",
-      "id": "premium",
-      "Key": "admin",
-      "Valid": "lifetime",
-      "ClientName": "arry_client"
-    },
-    {
-      "DcUsr": "893378455939469333",
-      "id": "premium",
-      "Key": "Valex-Client-KOMFWVS5339K",
-      "Valid": "lifetime",
-      "ClientName": "test"
-    },
-    {
       "DcUsr": "1477672979272831089",
       "id": "premium",
       "Key": "Valex-Client-HQ4GX2MBJVVN",
