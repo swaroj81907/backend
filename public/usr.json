@@ -13,20 +13,6 @@
       "Key": "admin",
       "Valid": "lifetime",
       "ClientName": "arry_client"
-    },
-    {
-      "DcUsr": "1477672979272831089",
-      "id": "premium",
-      "Key": "cloud",
-      "Valid": "lifetime",
-      "ClientName": "arry_client"
-    },
-    {
-      "DcUsr": "1477672979272831089",
-      "id": "premium",
-      "Key": "Valex-Client-RRUOWW0ZRRU3",
-      "Valid": "lifetime",
-      "ClientName": "arry_client"
     }
   ]
 }
