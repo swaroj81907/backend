@@ -4,6 +4,10 @@
       "addusr": {
         "reset_time": 1784866687.3487413,
         "uses": 1
+      },
+      "delusr": {
+        "reset_time": 1784866704.762243,
+        "uses": 1
       }
     }
   }
