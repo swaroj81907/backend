@@ -6,6 +6,13 @@
       "Key": "Valex-Client-EUC8KIDAY738",
       "Valid": "lifetime",
       "id": "premium"
+    },
+    {
+      "ClientName": "arry_client",
+      "DcUsr": "1477672979272831089",
+      "Key": "Valex-Client-2PQ9SAG2HLTK",
+      "Valid": "24/07/2026",
+      "id": "premium"
     }
   ]
 }
