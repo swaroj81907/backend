@@ -20,6 +20,13 @@
       "Key": "PD5I868KBRCDWKPDAFP6",
       "Valid": "26/07/2026",
       "id": "premium"
+    },
+    {
+      "ClientName": "null",
+      "DcUsr": "1477672979272831089",
+      "Key": "OUSDBAWK0U25C944DKBX",
+      "Valid": "lifetime",
+      "id": "free"
     }
   ]
 }
