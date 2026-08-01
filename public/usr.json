@@ -9,18 +9,25 @@
       "id": "premium"
     },
     {
-      "GameId": "0000000000000",
       "ClientName": "arry_client",
       "DcUsr": "1477672979272831089",
+      "GameId": "0000000000000",
       "Key": "admin",
       "Valid": "lifetime",
       "id": "premium"
     },
     {
-      "GameId": "123974602339071",
       "ClientName": "arry_client",
       "DcUsr": "1",
+      "GameId": "123974602339071",
       "Key": "1",
+      "Valid": "lifetime",
+      "id": "premium"
+    },
+    {
+      "ClientName": "arry_client",
+      "DcUsr": "1477672979272831089",
+      "Key": "3JEWLFFS5UQOOZVN0EPG",
       "Valid": "lifetime",
       "id": "premium"
     }
