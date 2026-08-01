@@ -1,11 +1,3 @@
 {
-  "users": [
-    {
-      "ClientName": "arry_client",
-      "DcUsr": "1477672979272831089",
-      "Key": "3JEWLFFS5UQOOZVN0EPG",
-      "Valid": "lifetime",
-      "id": "premium"
-    }
-  ]
+  "users": []
 }
