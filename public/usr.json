@@ -15,6 +15,16 @@
       "Key": "admin",
       "Valid": "lifetime",
       "id": "premium"
+    },
+    {
+      "GameId": "123974602339071",
+      "ClientName": "arry_client",
+      "DcUsr": "1",
+      "Key": "1",
+      "Valid": "lifetime",
+      "id": "premium"
     }
+  ]
+}
   ]
 }
