@@ -1,3 +1,12 @@
 {
-  "users": []
+  "users": [
+    {
+      "ClientName": "arry_client",
+      "DcUsr": "1477672979272831089",
+      "GameId": "123974602339071",
+      "Key": "Valex-COMml4",
+      "Valid": "lifetime",
+      "id": "premium"
+    }
+  ]
 }
