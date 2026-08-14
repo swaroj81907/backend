@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "ClientName": "null",
+      "DcUsr": "1477672979272831089",
+      "Key": "Valex-6SPTbJDCbocfbp",
+      "Valid": "lifetime",
+      "id": "premium"
+    }
+  ]
 }
