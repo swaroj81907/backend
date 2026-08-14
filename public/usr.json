@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "ClientName": "null",
+      "DcUsr": "1477672979272831089",
+      "Key": "G7PXZNOI07NL74TI6BH8",
+      "Valid": "lifetime",
+      "id": "premium"
+    }
+  ]
 }
