@@ -23,6 +23,13 @@
       "Key": "Valex-z9nxB5",
       "Valid": "06/08/2026",
       "id": "free"
+    },
+    {
+      "ClientName": "nul",
+      "DcUsr": "1477672979272831089",
+      "Key": "1100",
+      "Valid": "lifetime",
+      "id": "premium"
     }
   ]
 }
