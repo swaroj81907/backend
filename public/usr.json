@@ -3,25 +3,17 @@
     {
       "ClientName": "null",
       "DcUsr": "1477672979272831089",
+      "GameId": "null",
       "Key": "Valex-media0",
       "Valid": "lifetime",
-      "GameId" : "null",
       "id": "premium"
     },
     {
       "ClientName": "null",
       "DcUsr": "1529357407032053790",
-      "Key": "Valex-yKxpJs",
-      "Valid": "30/08/2026",
-      "GameId" : "null",
-      "id": "premium"
-    },
-    {
-      "ClientName": "null",
-      "DcUsr": "1529357407032053790",
+      "GameId": "null",
       "Key": "Valex-LU7TFE",
       "Valid": "lifetime",
-      "GameId" : "null",
       "id": "premium"
     }
   ]
